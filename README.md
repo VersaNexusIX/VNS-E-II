@@ -115,5 +115,4 @@ Suspicious ports monitored:
 - No persistent storage between runs (except JSON log)
 
 ## License
-
-Not specified
+Apache-2.0
